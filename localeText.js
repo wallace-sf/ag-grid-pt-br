@@ -78,7 +78,7 @@ const AG_GRID_LOCALE_PT_BR = {
   pinRight: 'Fixar à direita',
   noPin: 'Não fixar',
   valueAggregation: 'Agregação de valores',
-  autosizeThiscolumn: 'Redimensionar esta coluna',
+  autosizeThisColumn: 'Redimensionar esta coluna',
   autosizeAllColumns: 'Redimensionar todas as colunas',
   groupBy: 'Agrupar por',
   ungroupBy: 'Desagrupar por',
