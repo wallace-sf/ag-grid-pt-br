@@ -21,6 +21,11 @@ const AG_GRID_LOCALE_PT_BR = {
   inRangeStart: 'De',
   inRangeEnd: 'Até',
 
+  // Tooltip de ordenação
+  sortAscending: 'Ordem crescente',
+  sortDescending: 'Ordem decrescente',
+  sortUnSort: 'Limpar ordenação',
+
   // Text Filter
   contains: 'Contém',
   notContains: 'Não contém',
